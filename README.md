@@ -13,7 +13,7 @@ I'm Melih Can Hamurcu from Turkey, and I am currently a Computer Engineering stu
 
 #### Currently
 - 🔭 I’m currently working on a deep learning based computer vision project to apply TÜBİTAK in Turkey. 
-- 🌱 I’m currently studying Tensorflow, Keras, and Pytorch to be more comfortable while using these. 
+- 🌱 I’m currently studying Tensorflow, Keras, and Pytorch to be more comfortable while using these libraries.
 
 
 
